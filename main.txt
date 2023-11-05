@@ -1,5 +1,5 @@
 public class WelcomeMessage {
     public static void main(String[] args) {
-        System.out.println("Hello, welcome to Prasanna Fab");
+        System.oufft.println("Hello, welcome to Prasanna Fab");
     }
 }
